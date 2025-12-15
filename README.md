@@ -1,5 +1,6 @@
 # About Me:
-# 👋 Hi, I'm Sergio Casas
+
+## 👋 Hi, I'm Sergio Casas
 
 🚀 **Backend Developer | Python & Azure Cloud Specialist**  
 📍 Argentina  
@@ -7,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Resumen
 
 I'm a backend developer with strong experience in **Python** and **Microsoft Azure**, focused on building **robust, scalable, and secure APIs**.  
 I work comfortably across **Backend, DevOps, and Cloud Architecture**, applying **clean architecture**, **SOLID principles**, and pragmatic engineering (because theory without prod is just fan fiction).
@@ -20,16 +21,14 @@ I’m especially interested in:
 
 When something breaks at 3 AM, I want logs, metrics, and alerts — not hope.
 
----
 
-## 🛠️ Tech Stack
 
-### 💻 Backend
+## 💻 Backend
 - **Python** (FastAPI, Flask, Django)
 - REST APIs & async services
 - Pydantic, SQLAlchemy, pytest
 
-### ☁️ Cloud & DevOps (Azure)
+## ☁️ Cloud & DevOps (Azure)
 - Azure Functions, App Services, Container Apps
 - Azure OpenAI, Cognitive Services
 - Cosmos DB (SQL API), Azure Storage
@@ -37,19 +36,18 @@ When something breaks at 3 AM, I want logs, metrics, and alerts — not hope.
 - Key Vault, App Configuration, RBAC
 - Private Endpoints & Networking
 
-### 🐳 Infrastructure & Ops
+## 🐳 Infrastructure & Ops
 - Docker, Docker Compose
 - Nginx, Linux servers
 - CI/CD with GitHub Actions
 - Infrastructure as Code (Bicep / ARM)
 
-### 🤖 AI & Data
+## 🤖 AI & Data
 - Azure OpenAI (GPT models, embeddings)
 - RAG architectures (Azure Search + OpenAI)
 - FAISS, LangGraph
 - Document & email classification pipelines
 
----
 
 ## 📌 What I Care About
 
@@ -71,7 +69,6 @@ When something breaks at 3 AM, I want logs, metrics, and alerts — not hope.
 
 (Most repos are real-world projects — not tutorial graveyards)
 
----
 
 ## 🌱 Currently Learning / Exploring
 
@@ -79,14 +76,6 @@ When something breaks at 3 AM, I want logs, metrics, and alerts — not hope.
 - AI orchestration (LangGraph, multi-agent flows)
 - Improving developer experience in cloud projects
 - Frontend basics with React (yes, backend devs can learn CSS… eventually)
-
----
-
-## 📫 Get in Touch
-
-- 💼 LinkedIn: *[add your LinkedIn here]*
-- 📧 Email: *[add your email here]*
-
 
 
 &nbsp;
