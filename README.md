@@ -1,8 +1,93 @@
 # About Me:
+# 👋 Hi, I'm Sergio Casas
 
-Hi, my name is **Sergio Daniel**, I am software developer (backend)
+🚀 **Backend Developer | Python & Azure Cloud Specialist**  
+📍 Argentina  
+🧠 Builder of scalable APIs, cloud architectures, and AI-powered solutions
 
-I live in Catamarca - Argentina
+---
+
+## 🧑‍💻 About Me
+
+I'm a backend developer with strong experience in **Python** and **Microsoft Azure**, focused on building **robust, scalable, and secure APIs**.  
+I work comfortably across **Backend, DevOps, and Cloud Architecture**, applying **clean architecture**, **SOLID principles**, and pragmatic engineering (because theory without prod is just fan fiction).
+
+I’m especially interested in:
+- Distributed systems
+- Cloud-native architectures
+- AI & RAG solutions
+- Automation and developer experience
+
+When something breaks at 3 AM, I want logs, metrics, and alerts — not hope.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- **Python** (FastAPI, Flask, Django)
+- REST APIs & async services
+- Pydantic, SQLAlchemy, pytest
+
+### ☁️ Cloud & DevOps (Azure)
+- Azure Functions, App Services, Container Apps
+- Azure OpenAI, Cognitive Services
+- Cosmos DB (SQL API), Azure Storage
+- Logic Apps, Event-driven architectures
+- Key Vault, App Configuration, RBAC
+- Private Endpoints & Networking
+
+### 🐳 Infrastructure & Ops
+- Docker, Docker Compose
+- Nginx, Linux servers
+- CI/CD with GitHub Actions
+- Infrastructure as Code (Bicep / ARM)
+
+### 🤖 AI & Data
+- Azure OpenAI (GPT models, embeddings)
+- RAG architectures (Azure Search + OpenAI)
+- FAISS, LangGraph
+- Document & email classification pipelines
+
+---
+
+## 📌 What I Care About
+
+- Clean, readable, maintainable code
+- Observability (logging, monitoring, alerts)
+- Security by default
+- Automation over manual work
+- Solutions that actually run in production
+
+---
+
+## 📂 Featured Work
+
+- **Enterprise APIs** with FastAPI & Azure
+- **Event-driven systems** using Functions + Queues
+- **RAG chatbots** integrated with Microsoft Teams
+- **Email & document classification** pipelines
+- **Cloud-first architectures** with private networking
+
+(Most repos are real-world projects — not tutorial graveyards)
+
+---
+
+## 🌱 Currently Learning / Exploring
+
+- Advanced Azure architecture patterns
+- AI orchestration (LangGraph, multi-agent flows)
+- Improving developer experience in cloud projects
+- Frontend basics with React (yes, backend devs can learn CSS… eventually)
+
+---
+
+## 📫 Get in Touch
+
+- 💼 LinkedIn: *[add your LinkedIn here]*
+- 📧 Email: *[add your email here]*
+
+
 
 &nbsp;
 &nbsp;
